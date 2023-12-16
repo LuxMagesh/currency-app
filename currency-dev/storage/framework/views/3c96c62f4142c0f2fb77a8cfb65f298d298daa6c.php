@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('layout\main4', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\ticket-support\resources\views/tickets/complex.blade.php ENDPATH**/ ?>
